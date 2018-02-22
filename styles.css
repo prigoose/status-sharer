@@ -1,0 +1,47 @@
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+
+button {
+    background-color: powderblue; 
+    border-radius: 12px;
+    border-style: solid;
+    padding: 25px 50px;
+    text-align: center;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 25px;
+}
+
+#ntbutton {
+    margin: auto;
+    width: 60%;
+    padding: 30px;
+}
+
+.user {
+	font-size: 30px;
+	font-weight: 530;
+}
+
+.individualTweet {
+	font-size: 30px;
+	font-style: italic;
+}
+
+.time {
+	font-size: 15px;
+	padding: 10px;
+    color:grey;
+}
+
+.tweets {
+    margin: auto;
+    width: 70%;
+    border: 3px solid powderblue;
+    padding: 30px;
+}
